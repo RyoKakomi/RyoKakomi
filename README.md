@@ -8,5 +8,3 @@ I am an engineer.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKakomi" />
 </a>
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RyoKakomi)](https://github.com/anuraghazra/github-readme-stats)
